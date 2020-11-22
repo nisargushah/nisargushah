@@ -1,7 +1,7 @@
 ### Hi there, I'm ✨ [Nisarg Shah](www.nisargushah.com) ✨ 👋
 
 ## I'm an aspiring AI/ML engineer <developer />, trying to build stuff <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Me at the last date to submit the assignemnt" width="200" />
-- 👨‍🎓 Currently a Senior at [The Unievrsity of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research)
+- 👨‍🎓 Currently a Senior at [The University of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research)
 - 👨‍💻 I work at the [Informationn Security Office](https://www.uta.edu/security/index.php) at UTA
 - 👨‍🔬 I am learning everything I can 🤣
 - 💡 I love tech and engineering
