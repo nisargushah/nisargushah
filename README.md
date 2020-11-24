@@ -7,7 +7,7 @@
 - 💡 I love tech and engineering
 - 🥅 2020 Goals: Create more useful projects
 - 🚀 Time flies
-- ⚡ Strange fact: You can legally own a kangaroo in Texas ⭐
+- ⚡ Useless fact: You can legally own a kangaroo in Texas ⭐
 
 <br />
 
