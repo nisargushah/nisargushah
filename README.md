@@ -16,8 +16,8 @@
 ### Connect with me:
 
 
-<img align="left" alt="nisargushah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](www.nisargushah.com)
+<img align="left" alt="nisargushah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](https://www.nisargushah.com)
 
-<img align="left" alt="Nisarg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/nisargushah)
+<img align="left" alt="Nisarg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nisargushah)
 
 <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> &nbsp;&nbsp; [Email](mailto:shahnisarg510@gmail.com?subject=[GitHub])
