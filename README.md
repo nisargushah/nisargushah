@@ -2,7 +2,7 @@
 
 ## I'm an aspiring AI/ML engineer <developer />, trying to build stuff <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Me at the last date to submit the assignemnt" width="200" />
 - 👨‍🎓 Currently a Senior at [The University of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research)
-- 👨‍💻 I work with the [Informationn Security Office](https://www.uta.edu/security/index.php) at UTA
+- 👨‍💻 I work with the [Information Security Office](https://www.uta.edu/security/index.php) at UTA
 - 👨‍🔬 I am learning everything I can 🤣
 - 💡 I love tech and engineering
 - 🥅 2020 Goals: Create more useful projects
