@@ -16,7 +16,7 @@
 ### Connect with me:
 
 
-<img align="left" alt="nisargushah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](https://nisargushah.com/)
+<img align="left" alt="nisargushah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](https://penguindocs.com/)
 
 <img align="left" alt="Nisarg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/nisargushah)
 
