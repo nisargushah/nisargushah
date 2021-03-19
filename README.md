@@ -1,4 +1,4 @@
-### Hi there, I'm ✨ [Nisarg Shah](www.nisargushah.com) ✨ 👋
+### Hi there, I'm ✨ [Nisarg Shah](www.penguindocs.com) ✨ 👋
 
 ## I'm an aspiring AI/ML engineer <developer />, trying to build stuff <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Me at the last date to submit the assignemnt" width="200" />
 - 👨‍🎓 Currently a Senior at [The University of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research)
@@ -16,7 +16,7 @@
 ### Connect with me:
 
 
-<img align="left" alt="nisargushah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](https://penguindocs.com/)
+<img align="left" alt="penguindocs.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp;&nbsp; [Website](www.penguindocs.com/)
 
 <img align="left" alt="Nisarg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/nisargushah)
 
