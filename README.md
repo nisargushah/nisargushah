@@ -1,7 +1,7 @@
 ### Hi there, I'm ✨ [Nisarg Shah](https://penguindocs.com) ✨ 👋
 
 ## I'm an aspiring AI/ML engineer <developer />, trying to build stuff <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Me at the last date to submit the assignemnt" width="200" />
-- 👨‍🎓 Graduated from [The University of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research) with Bachlor's in Computer Science
+- 👨‍🎓 Graduated from [The University of Texas at Arlington (UTA)](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research) with Bachelor's in Computer Science
 - 👨‍💻 I work with the [OrdrAI](https://ordrai.com/) in Ann Arbor, Michigan
 - 👨‍🔬 I am learning everything I can 🤣
 - 💡 I love tech and engineering
