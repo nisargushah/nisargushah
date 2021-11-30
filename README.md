@@ -7,7 +7,7 @@
 - 💡 I love tech and engineering
 - 🥅 2020 Goals: Create more useful projects
 - 🚀 Time flies
-- ⚡ Useless fact: You can legally own a kangaroo in Texas ⭐
+- ⚡ Useless fact: Statistically, you are three times more likely to die traveling to or from work than you are if you were to be shipped out to war these days.⭐
 
 <br />
 
